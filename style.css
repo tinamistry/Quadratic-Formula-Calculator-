@@ -1,0 +1,10 @@
+.italic{
+    font-style: italic;
+ }
+input:valid:focus{
+    border-color: black;
+}
+input:invalid:focus {
+    border-width: 3px;
+    border-color: red;
+}
